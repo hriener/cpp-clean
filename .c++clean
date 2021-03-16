@@ -1,11 +1,11 @@
 author_pseudonyms = {}
 
-copyright_header_mask = """/\*! {}
-{}
-\*/"""
+copyright_header_mask = """/\* {}
+ \* {}
+ \*/"""
 
 copyright_header_regex = [ "(.*)", "(.*)" ]
-copyright_header_replace = [ "", "Copyright (C) 2018-2021  EPFL" ]
+copyright_header_replace = [ "c++clean example", "Copyright (C) 2021  EPFL" ]
 
 file_header_match_mask = """/\*!
 \s*(?:\\\\file\s+(.*)\\n)?\s*(?:\\\\brief\s+([^\\\\]*)\\n)?((?:\s*\\\\author\s+(?:.*)\\n)*)?\s*\*/"""

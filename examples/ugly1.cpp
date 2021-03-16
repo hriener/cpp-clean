@@ -1,10 +1,9 @@
 /* Example tool
- * Copyright (C) 2018-2021  EPFL
+ * Copyright (C) 2016  Ecole PF, Lausanne
  */
 
 /*!
-  \file file.hpp
+  \file file.cpp
   \brief Some description
-  \author Homer Simpson
-  \author Batman and Robin
+  \author Homer Simpson, Santa Claus, and Batman & Robin
 */
